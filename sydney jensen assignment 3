@@ -1,0 +1,11 @@
+background-color: #fff;
+<div class="container-fluid">
+...
+</div>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<div class="container-fluid">
+  <div class="row">
+    ...
+  </div>
+</div>
+<h1>h1. Bootstrap heading <small>Secondary text</small></h1>
